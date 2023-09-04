@@ -57,3 +57,17 @@ footer {
   display: grid;
   place-content: center;
 }
+button{
+  width: 80px;
+  padding: 0.25em;
+  background-color: mediumblue;
+  color: aliceblue;
+  font-weight: bold;
+  display: grid;
+  place-content: center;
+}
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
